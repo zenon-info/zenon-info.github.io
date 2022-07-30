@@ -6,10 +6,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'Zenon Info',
+  tagline: 'Zenon Network is an Independent Entity',
+  url: 'https://zenon-info.github.io',
   baseUrl: '/',
+  projectName: 'zenon-info.github.io',
+  organizationName: 'zenon-info',
+  trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
