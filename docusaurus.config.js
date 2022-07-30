@@ -60,10 +60,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Zenon Info',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Zenon Network Logo',
+          src: 'img/zenon_network_logo_round.svg',
         },
         items: [
           {
@@ -74,7 +74,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/zenon-info/zenon-info.github.io',
             label: 'GitHub',
             position: 'right',
           },
