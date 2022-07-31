@@ -68,11 +68,16 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'get-started',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Get Started',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            href: 'https://explorer.zenon.info',
+            label: 'Explorer',
+            position: 'right',
+          },
           {
             href: 'https://github.com/zenon-info/zenon-info.github.io',
             label: 'GitHub',
