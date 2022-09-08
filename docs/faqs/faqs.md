@@ -1,3 +1,8 @@
+---
+sidebar_position: 1
+---
+
+# Frequently Asked Questions
 Zenon Community FAQ
 Intro
 What is Zenon NoM?
