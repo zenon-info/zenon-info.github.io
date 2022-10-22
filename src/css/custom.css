@@ -36,7 +36,8 @@
    * other properties here.
    */
   [data-theme='light'] {
-    --ifm-color-primary: hsl(var(--site-primary-hue-saturation) 30%);
+    --ifm-color-primary: #3bda57;
+    /* --ifm-color-primary: hsl(var(--site-primary-hue-saturation) 30%); */
     --ifm-color-primary-dark: hsl(var(--site-primary-hue-saturation) 26%);
     --ifm-color-primary-darker: hsl(var(--site-primary-hue-saturation) 23%);
     --ifm-color-primary-darkest: hsl(var(--site-primary-hue-saturation) 17%);
