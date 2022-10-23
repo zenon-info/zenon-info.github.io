@@ -14,7 +14,7 @@ sidebar_position: 1
 ## Trading
 - [Pancake Swap](https://pancakeswap.finance/swap?inputCurrency=0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c&outputCurrency=0x84b174628911896a3b87fa6980d05dbc2ee74836)
 - [Stex](https://app.stex.com/en/trading/pair/USDT/ZNN/1D)
-- [2-way Bridge (wZNN <> ZNN)](https://bridge.zenon.network/)
+- [2-way Bridge](https://bridge.zenon.network/)
 
 
  
