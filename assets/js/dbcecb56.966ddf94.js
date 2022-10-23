@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkzenon_info_github_io=self.webpackChunkzenon_info_github_io||[]).push([[883],{3920:e=>{e.exports=JSON.parse('{"title":"Useful Links","slug":"/category/useful-links","permalink":"/docs/category/useful-links","navigation":{"previous":{"title":"Zenon Schizo","permalink":"/docs/schizo/"},"next":{"title":"Useful Links","permalink":"/docs/links/"}}}')}}]);
